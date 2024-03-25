@@ -2,6 +2,7 @@
 
 # 1- Token
 You must enter a valid discord token to delete private messages sent by it's client
+If you don't know how to get your token, refers to #6
 
 # 2 - Private Channel ID
 To get it, you must have the developer mode activated :
@@ -20,3 +21,5 @@ Pretty explicit ig
 You can try adding tdetp on discord 
 
 
+# 6 - Misc
+Getting token : ![image](https://github.com/tdkhl/deletedm/assets/82554322/7754cd09-2717-4e59-90ac-53babb530d58) by clicking on a conversation using dev tools (from chrome here)
