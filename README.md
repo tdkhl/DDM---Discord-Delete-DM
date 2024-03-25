@@ -1,12 +1,22 @@
-# deletedm
+# Discord Delete Dms (DDM)
 
-Config "config.json" first with :
+# 1- Token
+You must enter a valid discord token to delete private messages sent by it's client
 
-- your token
+# 2 - Private Channel ID
+To get it, you must have the developer mode activated :
+Open up the Discord app
+Click on the settings cog in the bottom left corner
+Go to Appearance -> allll the way at the bottom
+Toggle "Developer Mode"
 
-- id of the last dm sent in the conversation you want to delete
+# 3 - Offset
+Message ID from where the program should start deleting messages, starting from the bottom
 
-- your tag like "mytag#0000"
+# 4 - Delete
+Pretty explicit ig
 
-- framework (if you downloaded not self contained)  https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-desktop-3.1.0-windows-x86-installer
+# 5 - Faqs and support (french's instructions available too)
+You can try adding tdetp on discord 
+
 
