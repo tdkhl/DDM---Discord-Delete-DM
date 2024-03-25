@@ -1,5 +1,12 @@
 # Discord Delete Dms (DDM)
 
+We've all sent embarassing messages on discord few years ago.. And that's why DDM was created ! 
+You can now delete embarassing messages from yourself without any efforts
+
+On a tous envoyés des messages gênants sur discord il y a quelques années.. Et c'est pour ça que DDM a été crée !
+Vous pouvez maintenants supprimer tous vos messages gênants d'une conversation sans efforts
+
+
 # 1- Token
 You must enter a valid discord token to delete private messages sent by it's client
 If you don't know how to get your token, refers to #6
